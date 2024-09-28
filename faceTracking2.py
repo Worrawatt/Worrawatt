@@ -23,7 +23,7 @@ class App:
         self.btn_snapshot = tk.Button(window, text="ถ่ายและบันทึกรูปภาพ", command=self.snapshot)
         self.btn_snapshot.pack(anchor=tk.CENTER, expand=True)
 
-        self.delay = 15  #
+        self.delay = 15  
         self.update()
 
         self.window.mainloop()
