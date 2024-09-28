@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Worrawatt
+- This is my first project using Python together with OpenCV to create a program that detects faces and records video.
+- Thankyou for use.
